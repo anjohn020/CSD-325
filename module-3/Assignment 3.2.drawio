@@ -1,0 +1,242 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.0.3 Chrome/140.0.7339.249 Electron/38.7.0 Safari/537.36" version="29.0.3">
+  <diagram name="Page-1" id="T7xPUX_opLRrakSVdQmc">
+    <mxGraphModel dx="321" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aeSayvMqeaBXvGIU2JXW-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aeSayvMqeaBXvGIU2JXW-3" target="aeSayvMqeaBXvGIU2JXW-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-3" value="Display Introduction &amp;amp; set purse = 5000" style="shape=diamond;perimeter=diamondPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="260" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aeSayvMqeaBXvGIU2JXW-5" target="aeSayvMqeaBXvGIU2JXW-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-5" value="Ask for bet (or quit)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="430" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aeSayvMqeaBXvGIU2JXW-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="605" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-11" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aeSayvMqeaBXvGIU2JXW-9">
+          <mxGeometry x="-0.1588" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aeSayvMqeaBXvGIU2JXW-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="605" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-14" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aeSayvMqeaBXvGIU2JXW-13">
+          <mxGeometry x="0.0184" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-7" value="Does the user want to quit?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="332.5" y="550" width="175" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-12" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="565" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="aeSayvMqeaBXvGIU2JXW-15" target="aeSayvMqeaBXvGIU2JXW-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="675" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-23" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aeSayvMqeaBXvGIU2JXW-20">
+          <mxGeometry x="-0.1697" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aeSayvMqeaBXvGIU2JXW-15" target="aeSayvMqeaBXvGIU2JXW-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="675" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-67" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aeSayvMqeaBXvGIU2JXW-24">
+          <mxGeometry x="-0.3525" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-15" value="Does the bet exceed the purse?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="536.25" width="150" height="137.5" as="geometry" />
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aeSayvMqeaBXvGIU2JXW-25" target="aeSayvMqeaBXvGIU2JXW-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="675" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-25" value="Roll dice" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="615" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aeSayvMqeaBXvGIU2JXW-27" target="aeSayvMqeaBXvGIU2JXW-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="675" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-27" value="Ask player to choose CHO or HAN" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="597.5" y="860" width="155" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aeSayvMqeaBXvGIU2JXW-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-31" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aeSayvMqeaBXvGIU2JXW-30">
+          <mxGeometry x="-0.0024" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.892;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aeSayvMqeaBXvGIU2JXW-29" target="aeSayvMqeaBXvGIU2JXW-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-34" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aeSayvMqeaBXvGIU2JXW-33">
+          <mxGeometry x="0.0531" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-29" value="Is the bet valid" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="1000" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aeSayvMqeaBXvGIU2JXW-36" target="aeSayvMqeaBXvGIU2JXW-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="1160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-36" value="Reveal results of dice roll" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aeSayvMqeaBXvGIU2JXW-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="1160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-40" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aeSayvMqeaBXvGIU2JXW-39">
+          <mxGeometry x="0.04" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aeSayvMqeaBXvGIU2JXW-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="1160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-42" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aeSayvMqeaBXvGIU2JXW-41">
+          <mxGeometry x="0.035" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-38" value="Is the total even?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aeSayvMqeaBXvGIU2JXW-43" target="aeSayvMqeaBXvGIU2JXW-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="1280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-43" value="Set HAN as the correct bet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="aeSayvMqeaBXvGIU2JXW-44" target="aeSayvMqeaBXvGIU2JXW-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-44" value="Set CHO as the correct bet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aeSayvMqeaBXvGIU2JXW-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="1430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-50" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aeSayvMqeaBXvGIU2JXW-49">
+          <mxGeometry x="0.0333" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aeSayvMqeaBXvGIU2JXW-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="1430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-53" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aeSayvMqeaBXvGIU2JXW-52">
+          <mxGeometry x="-0.0145" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-47" value="Did the player bet correctly?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1340" width="280" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="aeSayvMqeaBXvGIU2JXW-51" target="aeSayvMqeaBXvGIU2JXW-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="1640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-51" value="Add pot to purse and deduct a 10% house fee" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-58" style="edgeStyle=isometricEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aeSayvMqeaBXvGIU2JXW-54" target="aeSayvMqeaBXvGIU2JXW-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="796" y="1620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-54" value="Subtract pot from purse" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="1400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aeSayvMqeaBXvGIU2JXW-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="2040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-61" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aeSayvMqeaBXvGIU2JXW-60">
+          <mxGeometry x="-0.1692" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aeSayvMqeaBXvGIU2JXW-57" target="aeSayvMqeaBXvGIU2JXW-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="1800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-65" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aeSayvMqeaBXvGIU2JXW-63">
+          <mxGeometry x="-0.1389" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-57" value="Does the players purse = 0?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1690" width="340" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-62" value="END" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="2040" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-66" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="aeSayvMqeaBXvGIU2JXW-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="1800" as="sourcePoint" />
+            <mxPoint x="285" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-64" value="Next round" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aeSayvMqeaBXvGIU2JXW-68" value="Antonio Johnson Assignment 3.2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
